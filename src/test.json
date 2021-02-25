@@ -1,0 +1,15 @@
+{
+  "author_name": "Pedro Henrique",
+  "books": [
+    {
+      "title": "title1",
+      "inprint": true,
+      "publish_date": "2021-02-25"
+    },
+    {
+      "title": "title2",
+      "inprint": false,
+      "publish_date": "2021-02-26"
+    }
+  ]
+}
